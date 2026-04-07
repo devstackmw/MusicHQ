@@ -1,0 +1,29 @@
+# Flutter/Dart specific
+.DS_Store
+.dart_tool/
+.packages
+.pub-cache/
+build/
+# Visual Studio Code
+.vscode/
+# IntelliJ
+.idea/
+# MacOS
+*.iml
+*.hprof
+# Flutter related
+flutter_*.png
+*.log
+
+# Syntastic
+syntax-checker/
+# Others
+*.type
+*.js
+*.app
+*.apk
+*.aab
+*.tar.gz
+*.tar
+*.zip
+*.jar
