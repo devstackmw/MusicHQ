@@ -1,0 +1,14 @@
+# Flutter lints
+
+This file defines the recommended lints for Flutter projects. You can customize the rules according to your preferences.
+
+```yaml
+# The following rules are recommended for use in Flutter projects:
+include: package:flutter_lints/flutter.yaml
+
+# You can add additional custom rules here:
+# analysis:
+#   errors:
+#     some_rule: error
+#     some_other_rule: ignore
+```
